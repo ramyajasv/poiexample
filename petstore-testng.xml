@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Petstore Test Suite">
+	<test name="LoginTest">
+		<classes>
+			<class name="com.zert.java.poiexample.PetStoreTest"></class>
+				</classes>
+		</test>
+</suite>
